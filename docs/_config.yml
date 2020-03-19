@@ -1,0 +1,8 @@
+title: NGUARD
+logo:
+description: 'This is the detail page of the paper <br><strong><em>NGUARD: A Game Bot Detection Framework for NetEase MMORPGs.</em></strong>'
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+paper_link: https://www.kdd.org/kdd2018/accepted-papers/view/nguard-a-game-bot-detection-framework-for-netease-mmorpgs
+data_link: /tree/master/data
